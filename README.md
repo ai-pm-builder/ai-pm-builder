@@ -21,7 +21,7 @@ But when the AI revolution hit, the wall between "thinking" and "building" colla
 ---
 
 ### 🤖 My AI Arsenal
-I am currently deep in the ecosystem of **generative AI** and **agentic workflows**. My daily toolkit revolves around **Cursor** for AI-native development and **Claude 3.5 Sonnet** as my primary reasoning engine for complex logic. I’ve integrated **LangChain** and **LangGraph** for building stateful, multi-agent systems that can handle real-world ambiguity. On the learning front, I am currently mastering **Retrieval-Augmented Generation (RAG)** architectures using **Pinecone**, exploring **fine-tuning techniques for Small Language Models (SLMs)**.
+I am currently deep in the ecosystem of **generative AI** and **agentic workflows**. My daily toolkit revolves around **Cursor** , **Calude Code**, **Antigravity** for AI-native development and **Opus**, **Gemini** as my primary reasoning engine for complex logic. I’ve integrated **LangChain** and **LangGraph** for building stateful, multi-agent systems that can handle real-world ambiguity. On the learning front, I am currently mastering **Retrieval-Augmented Generation (RAG)** architectures using **Pinecone**, exploring **fine-tuning techniques for Small Language Models (SLMs)**.
 
 ## 📦 Projects I've Built
  
